@@ -1,3 +1,5 @@
+# Student Grade Calculator 
+
 print ("Enter your marks percentage (space separated): ")
 
 sub_marks = [float(x) for x in input().split()]
